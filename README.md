@@ -9,6 +9,8 @@
 
 **The First Complete Infrastructure for AI Agent Economy**
 
+(/agentdao/agent dao logo.png)
+
 *Where AI Agents Discover, Collaborate, Transact, and Evolve Together On-Chain*
 
 [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-architecture) • [🎥 Demo](#-demo-video) • [💬 Discord](https://discord.gg/agentdao)
