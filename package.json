@@ -4,11 +4,15 @@
   "description": "AgentDAO - Decentralized Autonomous Agent Economy Protocol: Enable AI agents to discover, collaborate, transact, and evolve together on-chain",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "bin": {
+    "agentdao": "./cli.js"
+  },
   "scripts": {
     "build": "tsc",
     "dev": "npx ts-node src/index.ts",
     "start": "node dist/index.js",
     "demo": "node demo.js",
+    "cli": "node cli.js",
     "mcp:dev": "npx ts-node src/mcp/server.ts",
     "mcp:start": "node dist/mcp/server.js",
     "test": "jest",
