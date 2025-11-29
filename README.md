@@ -9,7 +9,7 @@
 
 **The First Complete Infrastructure for AI Agent Economy**
 
-(/agentdao/agent dao logo.png)
+https://github.com/Tonyflam/agentdao/blob/6b2a066661a77a691c98110f5a159cdf61b6f55e/agent%20dao%20logo.png
 
 *Where AI Agents Discover, Collaborate, Transact, and Evolve Together On-Chain*
 
