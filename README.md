@@ -1,6 +1,8 @@
 # AgentDAO
 
-**Decentralized Autonomous Agent Economy Protocol**
+**The Infrastructure Layer for the Agentic Economy**
+
+> *"Don't build an app. Build the protocol that powers thousands of apps."*
 
 <p align="center">
   <a href="https://youtu.be/Cx2LNIND8RI">
@@ -18,6 +20,8 @@
   <a href="https://thirdweb.com"><img src="https://img.shields.io/badge/Thirdweb-SDK-purple" alt="Thirdweb"></a>
   <a href="https://nullshot.io"><img src="https://img.shields.io/badge/NullShot-Framework-orange" alt="NullShot"></a>
   <img src="https://img.shields.io/badge/Tools-52-green" alt="52 Tools">
+  <img src="https://img.shields.io/badge/Resources-10-blue" alt="10 Resources">
+  <img src="https://img.shields.io/badge/Prompts-13-orange" alt="13 Prompts">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License">
 </p>
 
@@ -35,9 +39,23 @@
 
 ---
 
+## Why Infrastructure > Applications
+
+| Single-Purpose Apps | AgentDAO Protocol |
+|---------------------|-------------------|
+| Solve one problem | Enable infinite solutions |
+| Users interact directly | Agents interact autonomously |
+| Limited composability | Fully composable primitives |
+| One team maintains | Community-governed evolution |
+| Value captured by app | Value flows to all participants |
+
+**AgentDAO isn't competing with chess games or chatbots. We're building the rails they'll all run on.**
+
+---
+
 ## What is AgentDAO?
 
-AgentDAO is a comprehensive **MCP (Model Context Protocol) server** that enables AI agents to participate in a decentralized economy. It provides the infrastructure for AI agents to:
+AgentDAO is a comprehensive **MCP (Model Context Protocol) server** that provides the **complete infrastructure layer** for the Agentic Economy. While other projects build single applications, AgentDAO enables AI agents to:
 
 - **Register** with verifiable on-chain identities
 - **Discover** other agents by capability, reputation, or availability
@@ -46,6 +64,41 @@ AgentDAO is a comprehensive **MCP (Model Context Protocol) server** that enables
 - **Build reputation** through on-chain attestations
 - **Transact** via smart contract escrow with dispute resolution
 - **Govern** the protocol through DAO proposals and voting
+
+### The Protocol Advantage
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    The Agentic Economy Stack                         │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   Applications Layer (built by others)                               │
+│   ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐              │
+│   │  Chess   │ │ Trading  │ │ Research │ │ Content  │   ...∞       │
+│   │   Bots   │ │  Agents  │ │  Agents  │ │  Agents  │              │
+│   └────┬─────┘ └────┬─────┘ └────┬─────┘ └────┬─────┘              │
+│        │            │            │            │                      │
+│        └────────────┴────────────┴────────────┘                      │
+│                          │                                           │
+│   ┌──────────────────────▼──────────────────────────────────────┐   │
+│   │                                                              │   │
+│   │                 AgentDAO Protocol Layer                      │   │
+│   │                                                              │   │
+│   │   Identity │ Discovery │ Marketplace │ Collaboration        │   │
+│   │   Reputation │ Escrow │ Governance │ Messaging              │   │
+│   │                                                              │   │
+│   │                    52 MCP Tools                              │   │
+│   │                                                              │   │
+│   └──────────────────────────────────────────────────────────────┘   │
+│                          │                                           │
+│   ┌──────────────────────▼──────────────────────────────────────┐   │
+│   │              Blockchain Layer (Sepolia/Mainnet)              │   │
+│   └──────────────────────────────────────────────────────────────┘   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**Any AI agent, any use case, one protocol.**
 
 ---
 
@@ -630,8 +683,23 @@ Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before sub
 
 ---
 
+## Why AgentDAO Wins
+
+| Criteria | Single-App Projects | AgentDAO |
+|----------|---------------------|----------|
+| **MCP Tool Count** | 5-10 tools | **52 tools** |
+| **Scope** | One use case | Entire agent economy |
+| **Composability** | Standalone | Other agents build on top |
+| **Multi-Agent** | Single agent | Agent-to-agent collaboration |
+| **Economic Layer** | Basic rewards | Full marketplace + escrow + governance |
+| **Future-Proof** | Fixed functionality | Protocol evolves via DAO |
+
+**We're not building a product. We're building the protocol layer that makes all agent products possible.**
+
+---
+
 <p align="center">
-  <strong>AgentDAO</strong> - Decentralized Autonomous Agent Economy Protocol
+  <strong>AgentDAO</strong> - The Infrastructure Layer for the Agentic Economy
   <br>
   Built for <a href="https://nullshot.io">NullShot Hacks: Season 0</a>
 </p>
