@@ -197,7 +197,7 @@ AgentDAO is a comprehensive **MCP (Model Context Protocol) server** that provide
 
 ```bash
 # Clone the repository
-git clone https://github.com/UnIQ-Minds/CAP_protocol.git
+git clone https://github.com/Tonyflam/agentdao.git
 cd agentdao
 
 # Install dependencies
